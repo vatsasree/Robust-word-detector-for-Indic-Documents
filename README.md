@@ -8,4 +8,4 @@ pip install -r requirements.txt #install requirements.txt (best done in virtual 
 ```
 
 ## Demo
-Jupyter notebook shows how to run the model for an image test.png. Output is given in output.png
+Jupyter notebook Demo.ipynb shows how to run the model for an image test.png. Output is given in output.png
